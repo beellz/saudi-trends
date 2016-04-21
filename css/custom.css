@@ -1,0 +1,140 @@
+/********************
+general
+*********************/
+body {
+	font-family: sans-serif;
+}
+
+
+a {
+	text-decoration: none;
+ }
+
+ /********************
+header
+*********************/
+
+header {
+ float: left;
+ padding-top: 5px;
+ margin-bottom: 30px;
+ width: 100%
+
+
+}
+
+
+#logo {
+	text-align: left;
+	width: 0;
+}
+
+h1 {
+	letter-spacing: 5px;
+    font-family: monospace;
+    text-transform: uppercase;
+}
+
+ /********************
+navigation
+*********************/
+
+
+
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0px 0px;
+	padding:0px;
+}
+
+nav li {
+	display:inline-block;
+	margin: 0px 10px;
+	text-align: center;
+
+}
+ /********************
+footer
+*********************/
+
+footer {
+	text-align: center;
+	font-size: 0.7em;
+	padding-top: 50px;
+	clear: both;
+	color: #bbb
+}
+
+footer p {
+ text-align: center;
+}
+
+
+.social {
+	width: 40px;
+	margin: 0 5px;
+}
+
+
+
+ /********************
+color
+*********************/
+
+body {
+	background-color: #fff;
+	color: #999;
+
+}
+
+header {
+	background-color: #fff;
+	border-color:#607f99;
+
+}
+
+nav {
+
+	background-color: #607f99;
+
+}
+
+h1 ,h2
+{
+	color: steelblue;
+
+}
+a {
+	color :#97ddff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
